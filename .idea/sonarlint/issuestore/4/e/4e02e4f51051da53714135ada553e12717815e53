@@ -1,0 +1,12 @@
+
+0
+java:S1220""Move this file to a named package.
+g
+java:S2095	"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(­ñ àşÿÿÿÿ
+g
+java:S1871"LThis branch's code block is the same as the block for the branch on line 19.(ëæûÿÿÿÿÿ
+n
+java:S1871"LThis branch's code block is the same as the block for the branch on line 19.(ëæûÿÿÿÿÿ8­û†ËÎ0
+g
+java:S1871"LThis branch's code block is the same as the block for the branch on line 19.(ëæûÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(„ÀØàÿÿÿÿÿ
